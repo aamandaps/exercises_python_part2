@@ -1,3 +1,5 @@
+## Lista de exercícios
+## Estruturas condicionais
 18. Receba 2 valores reais. Calcule e mostre o maior deles.
 
 19. Receba 2 valores reais. Calcule e mostre o maior deles.
@@ -38,7 +40,7 @@ Obs.: para outras condições, preço novo será igual ao preço atual.
 29. Receba o tipo de investimento (1 = poupança e 2 = renda fixa) e o valor do investimento.
 Calcule e mostre o valor corrigido em 30 dias sabendo que a poupança = 3% e a renda fixa = 5%.
 Demais tipos não serão considerados.
-
+## Estruturas de repetições
 31. Calcule e mostre o quadrado dos números entre 10 e 150.
 
 32. Receba um número inteiro. Calcule e mostre o seu fatorial.
