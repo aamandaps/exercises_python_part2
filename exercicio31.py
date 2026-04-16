@@ -1,5 +1,5 @@
 #Declarando variáveis
-num:int=0
+n:int=0
 quo:int=0
 
 #Inicio
